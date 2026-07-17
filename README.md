@@ -119,12 +119,6 @@ If you follow step 1, then you can skip this step and run the application right 
 
 If you have a different `database` and `table` name then you need to change the `connectionString` in `appsettings.json` that is pointing to the newly created database. You can get the `connectionString` values in the `properties` window of the "TestDB" database in Visual Studio.
 
-# Walkthrough
-
-* [ApiBoilerPlate: A Project Template for Building ASP.NET Core APIs](http://vmsdurano.com/apiboilerplate-a-project-template-for-building-asp-net-core-apis/)
-* [ApiBoilerPlate: New Features and Improvements for Building ASP.NET Core 3 APIs](http://vmsdurano.com/apiboilerplate-new-features-and-improvements-for-building-asp-net-core-3-apis/)
-* [IdentityServer4: Building a Simple Token Server and Protecting Your ASP.NET Core APIs with JWT](http://vmsdurano.com/apiboilerplate-and-identityserver4-access-control-for-apis/)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
